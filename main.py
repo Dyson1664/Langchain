@@ -147,3 +147,7 @@ agent_executor = create_python_agent(
 # Execute the Python agent
 
 agent_executor.run("345 add 1000 then add 65. Then divide answer by two")
+
+for i in 'helloooooo':
+    print(i)
+
